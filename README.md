@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Customized Candles
 
 You can use the [editor on GitHub](https://github.com/whitey3doc3/RedTree/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+![Why we wait] (http://images.crateandbarrel.com/is/image/Crate/PillarCandleIvoryGroupSHF16/$web_product_hero$&/160810170223/ivory-pillar-candles.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
